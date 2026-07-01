@@ -1,106 +1,104 @@
 # 📘 05 - Algorithms & Problem Solving – Level 2 (C++)
 
-This repository contains my solutions for **50 algorithmic problems** from the **Algorithms & Problem Solving – Level 2** course in the **Programming Advices** training track by **Dr. Mohammed Abu-Hadhoud**.
+This repository contains my solutions to the **50 programming problems** from the **Algorithms & Problem Solving – Level 2** course in the **Programming Advices** learning track by **Dr. Mohammed Abu-Hadhoud**.
 
-The main goal of this course is to strengthen **problem-solving skills**, improve **logical thinking**, and gain **practical programming experience** through intensive practice.
-
----
-
-# 🚀 Course Overview
-
-This level focuses on gaining real programming experience through solving a new set of problems that are **more challenging than Level 1**.
-
-The course emphasizes:
-
-• Practicing structured programming using **C++**  
-• Applying the **Divide & Conquer** problem-solving strategy  
-• Writing clean and organized code using **functions and procedures**  
-• Learning from professional solutions and explanations  
-• Building experience through **consistent practice**
-
-Programming is not just about syntax — it is about **practice and experience**.
+The purpose of this course is to improve problem-solving skills, develop logical thinking, and gain more hands-on programming experience by solving different algorithmic problems.
 
 ---
 
-# 🧠 What I Practiced
+# 🚀 About the Course
 
-Throughout this course I worked on **50 programming problems** covering topics such as:
+Level 2 introduces a new collection of programming problems that are more challenging than those in Level 1.
 
-• Prime numbers  
-• Perfect numbers  
-• Number manipulation  
-• Digit analysis  
-• Pattern printing  
-• Random number generation  
-• Encryption and decryption  
-• Array operations  
-• Mathematical algorithms  
-• Implementing mathematical functions from scratch
+During this course I practiced:
 
-Each solution focuses on **clarity, modularity, and clean code design**.
+- Structured programming using **C++**
+- Applying the **Divide & Conquer** approach
+- Writing organized code with functions and procedures
+- Learning different ways to solve programming problems
+- Improving my skills through continuous practice
+
+This course helped me understand that programming is mainly about practicing and solving problems, not just learning syntax.
 
 ---
 
-# 📂 Repository Structure
+# 🧠 Topics Covered
 
-The repository contains **50 solved problems**, each implemented in C++.
+The repository includes solutions for problems related to:
 
-Examples of included problems:
+- Prime numbers
+- Perfect numbers
+- Number manipulation
+- Digit operations
+- Pattern printing
+- Random number generation
+- Encryption and decryption
+- Array operations
+- Mathematical algorithms
+- Implementing mathematical functions manually
 
-• Multiplication Table (1 → 10)  
-• Print All Prime Numbers (1 → N)  
-• Perfect Number Detection  
-• Reverse Number  
-• Digit Frequency  
-• Palindrome Number  
-• Random Number Generation  
-• Generate Random Keys  
-• Array Operations (Sum, Min, Max, Average)  
-• Copy Arrays  
-• Shuffle Arrays  
-• Count Even / Odd / Positive / Negative Numbers  
-• Custom implementations of mathematical functions
+Each solution was written with a focus on clean, readable, and organized code.
+
+---
+
+# 📂 Repository Contents
+
+This repository contains **50 C++ solutions**.
+
+Some of the problems include:
+
+- Multiplication Table (1 → 10)
+- Print All Prime Numbers (1 → N)
+- Perfect Number Detection
+- Reverse Number
+- Digit Frequency
+- Palindrome Number
+- Random Number Generation
+- Generate Random Keys
+- Array Operations (Sum, Min, Max, Average)
+- Copy Arrays
+- Shuffle Arrays
+- Count Even, Odd, Positive, and Negative Numbers
+- Custom implementations of mathematical functions
 
 ---
 
 # 🧮 Implemented Math Functions
 
-Instead of using the standard **cmath** library, this course required implementing several functions manually, including:
+Instead of using the **cmath** library, several mathematical functions were implemented manually, including:
 
-• MyABS  
-• MyRound  
-• MyFloor  
-• MyCeil  
-• MySqrt  
+- MyABS
+- MyRound
+- MyFloor
+- MyCeil
+- MySqrt
 
-This helped strengthen **algorithm design skills** and understanding of how these operations work internally.
+Implementing these functions helped me better understand the logic behind how they work.
 
 ---
 
 # 🛠 Technologies Used
 
-Language: **C++**  
-Programming Style: **Structured Programming**  
-Tools: **VS Code / Dev-C++**  
-Version Control: **Git & GitHub**
+- **Language:** C++
+- **Programming Style:** Structured Programming
+- **Tools:** VS Code / Dev-C++
+- **Version Control:** Git & GitHub
 
 ---
 
-# 🎯 Learning Outcomes
+# 🎯 What I Learned
 
-By completing this course I improved my ability to:
+After completing this course, I became more comfortable with:
 
-• Solve algorithmic problems efficiently  
-• Break complex problems into smaller steps  
-• Write clean and maintainable code  
-• Recognize common algorithm patterns  
-• Implement logic without relying on built-in functions  
-• Strengthen debugging and logical thinking skills
-
----
-
-# 👨‍🏫 Acknowledgments
-
-Special thanks to **Dr. Mohammed Abu-Hadhoud** for providing a structured and practical learning path through the **Programming Advices** platform.
+- Solving algorithmic problems
+- Breaking problems into smaller steps
+- Writing cleaner and more organized code
+- Identifying common algorithm patterns
+- Implementing logic without depending on built-in functions
+- Improving debugging and logical thinking skills
 
 ---
+
+# 👨‍🏫 Acknowledgment
+
+Thanks to **Dr. Mohammed Abu-Hadhoud** for creating the **Programming Advices** learning path and providing practical programming exercises throughout the course.
