@@ -1,30 +1,30 @@
 # 📘 05 - Algorithms & Problem Solving – Level 2 (C++)
 
-This repository contains my solutions to the **50 programming problems** from the **Algorithms & Problem Solving – Level 2** course in the **Programming Advices** learning track by **Dr. Mohammed Abu-Hadhoud**.
+This repository contains my solutions for the **50 programming problems** from the **Algorithms & Problem Solving – Level 2** course in the **Programming Advices** learning track by **Dr. Mohammed Abu-Hadhoud**.
 
-The purpose of this course is to improve problem-solving skills, develop logical thinking, and gain more hands-on programming experience by solving different algorithmic problems.
+The goal of this course is to improve problem-solving skills, strengthen logical thinking, and gain more practical programming experience by solving different algorithmic problems.
 
 ---
 
 # 🚀 About the Course
 
-Level 2 introduces a new collection of programming problems that are more challenging than those in Level 1.
+Level 2 includes a new set of programming problems that are more challenging than the ones in Level 1.
 
-During this course I practiced:
+Throughout this course, I practiced:
 
 - Structured programming using **C++**
 - Applying the **Divide & Conquer** approach
-- Writing organized code with functions and procedures
-- Learning different ways to solve programming problems
-- Improving my skills through continuous practice
+- Writing clean and organized code using functions and procedures
+- Solving problems using different approaches
+- Improving my programming skills through regular practice
 
-This course helped me understand that programming is mainly about practicing and solving problems, not just learning syntax.
+This course showed me that programming is not only about learning syntax, but also about practicing and building experience.
 
 ---
 
 # 🧠 Topics Covered
 
-The repository includes solutions for problems related to:
+This repository includes solutions for problems related to:
 
 - Prime numbers
 - Perfect numbers
@@ -37,7 +37,7 @@ The repository includes solutions for problems related to:
 - Mathematical algorithms
 - Implementing mathematical functions manually
 
-Each solution was written with a focus on clean, readable, and organized code.
+Each solution was written with an emphasis on clean, readable, and organized code.
 
 ---
 
@@ -73,7 +73,7 @@ Instead of using the **cmath** library, several mathematical functions were impl
 - MyCeil
 - MySqrt
 
-Implementing these functions helped me better understand the logic behind how they work.
+Implementing these functions gave me a better understanding of the logic behind each operation.
 
 ---
 
@@ -88,17 +88,17 @@ Implementing these functions helped me better understand the logic behind how th
 
 # 🎯 What I Learned
 
-After completing this course, I became more comfortable with:
+By completing this course, I improved my ability to:
 
-- Solving algorithmic problems
-- Breaking problems into smaller steps
-- Writing cleaner and more organized code
-- Identifying common algorithm patterns
-- Implementing logic without depending on built-in functions
-- Improving debugging and logical thinking skills
+- Solve algorithmic problems
+- Break complex problems into smaller steps
+- Write cleaner and more organized code
+- Recognize common algorithm patterns
+- Implement logic without relying on built-in functions
+- Improve debugging and logical thinking skills
 
 ---
 
 # 👨‍🏫 Acknowledgment
 
-Thanks to **Dr. Mohammed Abu-Hadhoud** for creating the **Programming Advices** learning path and providing practical programming exercises throughout the course.
+Special thanks to **Dr. Mohammed Abu-Hadhoud** for creating the **Programming Advices** learning track and providing practical exercises that helped me improve my programming skills.
